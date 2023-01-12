@@ -1,8 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { useRef } from "react";
+import { useEffect, useRef } from "react";
 
 function App() {
+  useEffect(() => {
+    console.log("pinecone effect");
+  }, []);
   const renderAd = () => {
     return {
       __html:
