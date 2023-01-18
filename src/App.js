@@ -38,6 +38,27 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <iframe
+            id="ad449bc5"
+            name="ad449bc5"
+            src="http://18.141.180.51/revive/www/delivery/afr.php?zoneid=21&amp;cb=INSERT_RANDOM_NUMBER_HERE"
+            frameborder="0"
+            scrolling="no"
+            width="914"
+            height="1046"
+            allow="autoplay"
+          >
+            <a
+              href="http://18.141.180.51/revive/www/delivery/ck.php?n=ae57a35a&amp;cb=INSERT_RANDOM_NUMBER_HERE"
+              target="_blank"
+            >
+              <img
+                src="http://18.141.180.51/revive/www/delivery/avw.php?zoneid=21&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae57a35a"
+                border="0"
+                alt=""
+              />
+            </a>
+          </iframe>
           Learn React
         </a>
       </header>
