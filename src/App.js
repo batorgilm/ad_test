@@ -2,6 +2,7 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import logo from "./logo.svg";
 import "./App.css";
+import AdsComponent from "./AdsComponent";
 
 function App() {
   return (
@@ -20,6 +21,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <>
+        <h1>Place To show Google AdSense</h1>
+        <AdsComponent dataAdSlot="4999579611" />
+      </>
     </div>
   );
 }
